@@ -240,3 +240,119 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+/**
+Custom css
+*/
+.header{
+    height: 50%;
+}
+.services{
+    height: 374px;
+    padding: 0px;
+}
+.about{
+    padding: 30px;
+}
+.portfolio{
+    padding: 35px;
+    padding-bottom: 30px;
+}
+.call-to-action{
+    padding: 0px;
+}
+.gallery-image {
+float: left;
+overflow: hidden;
+position: relative;
+width: 100%;
+border-radius: 4px 4px 0px 0px;
+border-radius: 4px 4px 0px 0px;
+border-radius: 4px 4px 0px 0px;
+border-radius: 4px 4px 0px 0px;
+border-radius: 4px 4px 0px 0px;
+}
+.gallery-image:before {
+height: 100%;
+width: 100%;
+background: url("../images/gallery-hover.png") repeat scroll 0 0 transparent;
+background-size: 100% 100%;
+content: "";
+position: absolute;
+left: 0;
+top: 0;
+opacity: 0;
+filter: alpha(opacity = 0);
+-webkit-transition: all 0.4s ease 0s;
+-moz-transition: all 0.4s ease 0s;
+-ms-transition: all 0.4s ease 0s;
+-o-transition: all 0.4s ease 0s;
+transition: all 0.4s ease 0s;
+}
+.gallery-image .image-lists {
+display: table;
+width: 100%;
+margin: 0 auto -32px;
+position: absolute;
+bottom: 50%;
+-webkit-transform: rotateX(90deg);
+-moz-transform: rotateX(90deg);
+-ms-transform: rotateX(90deg);
+-o-transform: rotateX(90deg);
+transform: rotateX(90deg);
+-webkit-transition: all 0.5s ease 0s;
+-moz-transition: all 0.5s ease 0s;
+-ms-transition: all 0.5s ease 0s;
+-o-transition: all 0.5s ease 0s;
+transition: all 0.5s ease 0s;
+}
+.image-lists ul > li a {
+float: left;
+position: relative;
+}
+.left-top .feedback_trigger_text, .left-bottom .feedback_trigger_text, .right-top .feedback_trigger_text, .right-bottom .feedback_trigger_text{
+    font-size: 15px;
+}
+.feedback_content.email_present {
+height: 380px;
+}
+   
+/*
+for slider
+*/
+
+/*
+end of slider
+*/
+.resources{
+    
+    height: 399px;
+    overflow: scroll;
+    width: 329px;
+}
+footer{
+    padding-top: 38px;
+    padding-bottom: 30px;
+}
+.resouce_materials{
+    width: 263px;
+    height: 100px;
+}
+.fb_iframe_widget {
+
+left: 75px;
+}      
+#menu-toggle{
+    top: 17px;
+}
+.btn-light {
+color: #EDE4E4;
+background-color: rgb(63, 53, 53);
+}
+.contactinfo{
+ float: right;
+ padding-right: 10px;
+}
+.ourteam{
+    padding-left: 148px;
+    margin-right: -56px;
+}

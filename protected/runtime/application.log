@@ -1,0 +1,1199 @@
+2015/02/18 13:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "font-awesome".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php:483
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(270): CController->missingAction('font-awesome')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): CController->run('font-awesome')
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('site/font-aweso...')
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/techworld1.0/index.php/site/font-awesome/css/font-awesome.min.css
+HTTP_REFERER=http://localhost/techworld1.0/index.php/site/index
+---
+2015/02/18 13:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php:483
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(270): CController->missingAction('css')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): CController->run('css')
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('site/css/stylis...')
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/techworld1.0/index.php/site/css/stylish-portfolio.css
+HTTP_REFERER=http://localhost/techworld1.0/index.php/site/index
+---
+2015/02/18 13:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "css".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php:483
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(270): CController->missingAction('css')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): CController->run('css')
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('site/css/bootst...')
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/techworld1.0/index.php/site/css/bootstrap.min.css
+HTTP_REFERER=http://localhost/techworld1.0/index.php/site/index
+---
+2015/02/18 13:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php:483
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(270): CController->missingAction('js')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): CController->run('js')
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/bootstr...')
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/techworld1.0/index.php/site/js/bootstrap.min.js
+HTTP_REFERER=http://localhost/techworld1.0/index.php/site/index
+---
+2015/02/18 13:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "js".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php:483
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(270): CController->missingAction('js')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): CController->run('js')
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('site/js/jquery....')
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/techworld1.0/index.php/site/js/jquery.js
+HTTP_REFERER=http://localhost/techworld1.0/index.php/site/index
+---
+2015/02/18 13:59:00 [error] [php] Undefined variable: email (C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php:63)
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(286): SiteController->runAction()
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): SiteController->run()
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\techworld1.0\index.php(13): CWebApplication->run()
+REQUEST_URI=/techworld1.0/site/contact
+in C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php (63)
+in C:\xampp\htdocs\techworld1.0\index.php (13)
+2015/02/18 14:05:53 [error] [php] Undefined index: name (C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php:56)
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(286): SiteController->runAction()
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): SiteController->run()
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\techworld1.0\index.php(13): CWebApplication->run()
+REQUEST_URI=/techworld1.0/site/contact
+in C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php (56)
+in C:\xampp\htdocs\techworld1.0\index.php (13)
+2015/02/18 15:38:35 [error] [php] Undefined variable: email (C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php:63)
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(286): SiteController->runAction()
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#2 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(282): SiteController->run()
+#3 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#4 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#5 C:\xampp\htdocs\techworld1.0\index.php(13): CWebApplication->run()
+REQUEST_URI=/techworld1.0/site/contact
+in C:\xampp\htdocs\techworld1.0\protected\controllers\SiteController.php (63)
+in C:\xampp\htdocs\techworld1.0\index.php (13)
+2015/02/18 15:46:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:46:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/10.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/10.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/11.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/11.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/12.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/12.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+---
+2015/02/18 15:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/13.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/13.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/14.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/14.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/1.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/1.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/2.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/2.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/3.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/3.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+---
+2015/02/18 15:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+---
+2015/02/18 15:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/4.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/4.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+---
+2015/02/18 15:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/6.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/6.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:47:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:48:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/7.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/7.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:48:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/5.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/5.jpg
+---
+2015/02/18 15:48:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/9.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/9.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/18 15:48:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "img/worshoppics/8.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('img/worshoppics...')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/img/worshoppics/8.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:49:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:49:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:49:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:52:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:52:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 15:52:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
+2015/02/23 16:27:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/vignesh.jpg".' in D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\web\CWebApplication.php(141): CWebApplication->runController('images/vignesh....')
+#1 D:\php\yii-1.1.14.f0fee9\yii-1.1.14.f0fee9\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\techworld1.0\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/techworld1.0/images/vignesh.jpg
+HTTP_REFERER=http://localhost/techworld1.0/
+---
